@@ -1,0 +1,2 @@
+# LightDarkThemeToggleJS
+JavaScript練習用
